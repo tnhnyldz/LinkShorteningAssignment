@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkShorteningAssignment.WebApi", "LinkShorteningAssignment.WebApi\LinkShorteningAssignment.WebApi.csproj", "{49AC2F67-FE45-4A23-B7FA-B1A13E999838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AC2F67-FE45-4A23-B7FA-B1A13E999838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AC2F67-FE45-4A23-B7FA-B1A13E999838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AC2F67-FE45-4A23-B7FA-B1A13E999838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AC2F67-FE45-4A23-B7FA-B1A13E999838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983D0216-6FEF-4A3E-8A6A-203ECC827C69}
+	EndGlobalSection
+EndGlobal
